@@ -1,4 +1,1 @@
-nyanmisaka/jellyfin
-linuxserver/jackett
-allanpk716/chinesesubfinder
-ubuntu
+mysql
